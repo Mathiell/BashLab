@@ -23,3 +23,4 @@ if [ -f "$BACKUP_FILE" ]; then
 else
 	echo "File doesn't exist.."
 fi
+	echo "Process finished"
