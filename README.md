@@ -23,7 +23,7 @@ Bash001/
 |---backup_folder/
 |---README.md
 
-## Script:
+## Running:
 
 '''bash
 chmod +x backup.sh
