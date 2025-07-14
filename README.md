@@ -20,7 +20,7 @@ Automatic backup of 'log.txt' file, based on bash script and crontab.
 Bash001/
 |---backup.sh
 |---log.txt
-|---backup/
+|---backup_folder/
 |---README.md
 
 ## Script:
